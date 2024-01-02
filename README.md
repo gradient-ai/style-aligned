@@ -3,6 +3,10 @@
 
 ### [Project Page](https://style-aligned-gen.github.io) &ensp; [Paper](https://style-aligned-gen.github.io/data/StyleAligned.pdf)
 
+## Launch Notebook
+
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/style-aligned?machine=Free-GPU)
+
 
 ## Setup
 
